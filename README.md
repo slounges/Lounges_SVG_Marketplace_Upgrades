@@ -2,7 +2,7 @@
 
 
 ## Description
-This repo is for the SVG Icon Marketplace! It includes 10 icons made in AI, displayed on a website as stickers being sold. The website includes html, css, javascript features with ui/ux upgrades.
+This repo is for the SVG Icon Marketplace! It includes 10 icons made in AI, displayed on a website as stickers being sold. The website includes html, css and javascript features with ui/ux upgrades.
 
 ## MIT Liscence
 

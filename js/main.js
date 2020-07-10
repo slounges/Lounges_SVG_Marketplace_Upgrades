@@ -1,5 +1,3 @@
-
-
 let iconSet = document.querySelectorAll('.svgIcon')
 
 function whenClicked(EventObject) {
