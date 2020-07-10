@@ -1,0 +1,59 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="115" height="165.48" viewBox="0 0 115 138.11">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        font-size: 52.54px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #f2c1da;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        font-size: 40.15px;
+      }
+    </style>
+  </defs>
+  <g id="Confused">
+    <ellipse class="cls-1" cx="57.5" cy="84.11" rx="57" ry="53.5"/>
+    <ellipse class="cls-2" cx="33.5" cy="79.66" rx="17" ry="16.04"/>
+    <ellipse class="cls-2" cx="33.5" cy="79.17" rx="9.86" ry="8.85"/>
+    <ellipse class="cls-2" cx="33.5" cy="79.17" rx="7.52" ry="7.1"/>
+    <ellipse class="cls-2" cx="33.5" cy="79.17" rx="4.46" ry="4.21"/>
+    <ellipse class="cls-2" cx="33.5" cy="79.17" rx="2.23" ry="2.1"/>
+    <ellipse class="cls-2" cx="84.95" cy="79.66" rx="17" ry="16.04"/>
+    <ellipse class="cls-2" cx="84.95" cy="79.17" rx="9.86" ry="8.85"/>
+    <ellipse class="cls-2" cx="84.95" cy="79.17" rx="7.52" ry="7.1"/>
+    <ellipse class="cls-2" cx="84.95" cy="79.17" rx="4.46" ry="4.21"/>
+    <ellipse class="cls-2" cx="84.95" cy="79.17" rx="2.23" ry="2.1"/>
+    <g>
+      <path class="cls-3" d="M90.91,41.5c-1.11.56-2.78-1.14-6.11-4.53-4.76-4.85-8.12-8.29-7.38-11.75s5.62-6.39,9-5.24C93.1,22.24,93.94,40,90.91,41.5Z"/>
+      <path class="cls-3" d="M90.57,41.65c-1.1-.56-.69-2.92.13-7.64,1.18-6.75,2-11.52,5.3-13s8.55.73,9.6,4.16C107.67,31.92,93.62,43.19,90.57,41.65Z"/>
+    </g>
+    <path class="cls-4" d="M46.33,116.3a3.94,3.94,0,0,0,3.19,1c1.24-.34,1.48-1.58,2.79-2.24,1.59-.8,3.4-.09,4.2.18,2.21.75,6.42,1.4,15.15,1"/>
+    <text class="cls-5" transform="matrix(1.26, 0.36, -0.28, 0.96, 20.16, 46.01)">?</text>
+    <text class="cls-6" transform="matrix(1.12, -0.43, 0.36, 0.93, 14.07, 38.41)">?</text>
+  </g>
+</svg>
