@@ -13,6 +13,25 @@ text-align:center;
 color: #333333;
 font-size: 30px;
 padding-bottom: 10px;
+background: linear-gradient(to right, crimson,pink,springgreen);
+background-size: 200% 200%;
+animation: rainbow 2s ease-in-out infinite;
+background-clip: text;
+-webkit-background-clip:text;
+color:rgba(0,0,0,1);
+transition: color .2s ease-in-out;
+text-transform:uppercase;
+}
+
+.title-bar, .info-bar:hover{
+  color:rgba(0,0,0,0);
+}
+
+@keyframes rainbow { 
+  0%{background-position:left}
+  50%{background-position:right}
+  100%{background-position:left}
+
 }
 
 .info-bar {
@@ -21,20 +40,20 @@ font-size: 15px;
 padding-bottom: 50px;
 }
 
-.cart {
+.basket {
 background-color: #ffff;
 border-radius: 40px;
-height: 70px;
+height: 60px;
 width: 50px;
 display: flex;
 flex-direction: column-reverse;
 justify-content: center;
 position: absolute;
 right: 0;
-margin-right: 30px;
+padding-right: 30px;
 }
 
-.cart:hover {
+.basket:hover {
 cursor: pointer;
 transform: scale(1.15);
 }
@@ -57,21 +76,21 @@ padding:20px 20px; #000;
 color:#1b1b1b;
 }
 
-.svgTitle {
+.svgName {
 font-family: 'Fredoka One', Courier, monospace;
 text-align: center;
 padding-bottom: 40px;
 font-weight: bold;
 }
 
-.svgIcons{
+.svgStickers{
 display: flex;
 flex-wrap: wrap;
 flex-direction: row;
 justify-content: center;
 }
 
-.svgIcon {
+.svgSticker {
 margin: 50px;
 padding: 50px;
 width: 100px;
@@ -82,7 +101,7 @@ filter: grayscale(100%);
 transition: .3s ease-in-out;
 }
 
-.svgIcon:hover{
+.svgSticker:hover{
 background: lightgrey;
 transition: .3s ease-in-out;
 cursor: pointer;
